@@ -41,4 +41,17 @@ For proper webpage display, all videos have been downsampled. The original video
 <div align=center><img src="Video/Video3-Ori.gif" width="165" height="145"><img src="Video/Video3-PDS.gif" width="165" height="145">  <img src="Video/Video4-Ori.gif" width="165" height="145" ><img src="Video/Video4-PDS.gif" width="165" height="145"><div>
 
 <div align=left><div>
+  
+## Citation
 
+```
+@ARTICLE{10414998,
+  author={Shen, Linghao and Reda, Mohamed and Zhang, Xun and Zhao, Yongqiang and Kong, Seong G.},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Polarization-Driven Solution for Mitigating Scattering and Uneven Illumination in Underwater Imagery}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-15},
+  doi={10.1109/TGRS.2024.3358828}}
+```
