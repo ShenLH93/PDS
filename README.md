@@ -29,7 +29,7 @@ The acquired mosaicked polarization image can be demosaicked using [PCDC](https:
   
 ## Code
 
-[Code]("Code" ) is released.
+[Code]("Code/demo.m" ) is released.
 
 ## Videos
 For proper webpage display, all videos have been downsampled. The original videos are available for download in the Datasets section.
